@@ -1,5 +1,5 @@
 # redi-school-fe-fall-2024-week-1-assignment
- Simple html document
+ Simple HTML Document
 
 ## Preview
 https://nishavijai.github.io/redi-school-fe-fall-2024-week-1-assignment/
